@@ -4,7 +4,7 @@ This is a small project on a 16-bit binary adder with standard flags.
 
 The 16-bit adder is formed by cascading four 4-bit adder which includes four Full adders which is further made of two Half adders.
 
-The flage it supports are-
+The flags it supports are-
 1. Carry
 2. Zero
 3. Sign
